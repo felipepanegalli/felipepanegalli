@@ -9,10 +9,10 @@
 ### A Web and Mobile Developer
 
 * 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.iffarroupilha.edu.br/portal?view=default">Instituto Federal
-  Farroupilha</a> and <a href="#">Xgrow Exponential Growth</a>
-* 💻 &nbsp; All of my projects are here
-* 📑 &nbsp; Senior FullStack Developer
-* 📍 &nbsp; How to reach me <a href="mailto:felipe.panegalli@gmail.com">felipe.panegalli@gmail.com</a>
+  Farroupilha</a> and <a href="#">Xgrow Exponential Growth</a>.
+* 💻 &nbsp; You can have a look at my projects here.
+* 📑 &nbsp; Senior FullStack Developer.
+* 📍 &nbsp; How to reach me <a href="mailto:felipe.panegalli@gmail.com">felipe.panegalli@gmail.com</a>.
 
 <a href="https://www.linkedin.com/in/felipe-panegalli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/panegalli/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
